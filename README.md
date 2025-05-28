@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Alan.
+
+I'm an Electrical and Computer Engineering student at UT Austin with a focus on Computer Architecture and Embedded Systems.
+
+I am primarily interested in RTL design and verification, specifically with FPGA/ASIC for both aerospace or high-performance computing applications.
+
+I have experience in Verilog and the Xilinx FPGA toolchain.
+
+I invite you to explore my selected projects below:
 
 <!--
 **alanhuybui/alanhuybui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
