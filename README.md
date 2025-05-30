@@ -2,9 +2,9 @@
 
 I'm an Electrical and Computer Engineering student at UT Austin with a focus on Computer Architecture and Embedded Systems.
 
-I am primarily interested in RTL design and verification, specifically with FPGA/ASIC for both aerospace or high-performance computing applications.
+I am primarily interested in RTL design and verification, specifically with FPGA/ASIC for both aerospace and high-performance computing applications.
 
-I have experience in Verilog and the Xilinx FPGA toolchain.
+I have experience in Verilog, Python, C, C++, and the Xilinx FPGA toolchain.
 
 I invite you to explore my selected projects below:
 
