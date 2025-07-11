@@ -1,8 +1,8 @@
 ## Hi, I'm Alan.
 
-I'm an Electrical and Computer Engineering student at UT Austin with a focus on Computer Architecture and Embedded Systems.
+I'm a B.S. Electrical & Computer Engineering student at UT Austin with a focus on Computer Architecture and Embedded Systems.
 
-I am primarily interested in RTL design and verification, specifically with FPGA/ASIC for both aerospace and high-performance computing applications.
+I am primarily interested in RTL design and verification, specifically with FPGAs for aerospace applications.
 
 I have experience in Verilog, Python, C, C++, and the Xilinx FPGA toolchain.
 
